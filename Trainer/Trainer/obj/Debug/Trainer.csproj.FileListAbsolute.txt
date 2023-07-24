@@ -1,0 +1,773 @@
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Trainer.exe.config
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\EntityFramework.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\EntityFramework.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\MainWindow.baml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.g.resources
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+D:\2 курс\ООП Пацей 4 сем\k\Trainer\Trainer\obj\Debug\Menu\Like.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\Like.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.g.resources
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\MainPage.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\MainPage.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Trainer.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+C:\Users\MSI\Desktop\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.g.cs
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.baml
+C:\Users\MSI\Desktop\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csprojAssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsInfo.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\DietsStart.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\DietsInfo\MainDiets.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsStart.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\MainDiets.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\User\UserPage.g.cs
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\User\UserPage.baml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Interop.STAMIQCVChartsLib.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.xml
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MSI\Desktop\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe.config
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.Wpf.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\DocumentFormat.OpenXml.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.Wpf.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\LiveCharts.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignColors.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\Newtonsoft.Json.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Data.SqlClient.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\System.Drawing.Common.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.ResolveComReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsInfo.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsStart.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\MainDiets.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\User\UserPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Login-Register\Register.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\MainWindow.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminPanel.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dieta.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsInfo.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsStart.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\MainDiets.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Like.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\Trenning.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Menu\User\UserPage.baml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.g.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\obj\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer done finish\Trainer done5\Trainer done5\Trainer done\Trainer\Trainer\bin\Debug\ru\EntityFramework.resources.dll
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer.csproj.ResolveComReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsInfo.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsStart.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\MainDiets.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Menu\User\UserPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer.exe
+D:\2 курс\ООП Пацей 4 сем\курсовой\Кохнюк ИСИТ3 ВАРИАНТ2\Trainer\Trainer\obj\Debug\Trainer.pdb
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Trainer.csproj.ResolveComReference.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsInfo.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsStart.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\MainDiets.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Menu\User\UserPage.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\ООП Пацей 4 сем\курсовой\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Trainer.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Trainer.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Trainer.csproj.ResolveComReference.cache
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Login-Register\LoginWindow.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Login-Register\Register.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\MainPage.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\MainWindow.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\AdminPanel.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\AdminSettings\InsertDataInDB.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\Dieta.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsInfo.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\DietsStart.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\Dietsinfo\MainDiets.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\InfoAboutProgramm.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\Like.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\TreiningPage\InfoTreining.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\TreiningPage\MainTreiningPage.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\TreiningPage\StartTreining.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\Trenning.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Menu\User\UserPage.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\App.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Trainer_Content.g.cs
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.cache
+D:\2 курс\4 семестр\ООП Пацей\курсовой\Trainer\Trainer\obj\Debug\Trainer_MarkupCompile.lref

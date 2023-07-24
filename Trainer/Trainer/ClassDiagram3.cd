@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Trainer.App">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.InfoUser">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Diets">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAABAAAYAAAEAAAAA=</HashCode>
+      <FileName>InfoUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Likes">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>InfoUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.InfoLikes">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAYAAAAAQAAA=</HashCode>
+      <FileName>InfoUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.MainPage" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAIAAQAAAAAQAAgAIBAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.TESTEntities2">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Model1.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Trainings">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAYAQAAAAAAA=</HashCode>
+      <FileName>Trainings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Users">
+    <Position X="0.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAAAACAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.ConnectToDB.Connect">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectToDB\Connect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Login_Register.LoginWindow" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAIAAAAAAAAAAAAAABAAACAAAAAAAA=</HashCode>
+      <FileName>Login-Register\LoginWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Login_Register.Register" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAIAAAAAgAAACAAAABAAAAAQAAAAAA=</HashCode>
+      <FileName>Login-Register\Register.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.MyItem">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>Menu\AdminPanel.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Menu.AdminPanel" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgBIAAAAAAAAAAAAAAAAABAEAAAAAAAAAggE=</HashCode>
+      <FileName>Menu\AdminPanel.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.Dieta" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Dieta.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.InfoAboutProgramm" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\InfoAboutProgramm.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.Like" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEAAAAAAIAAAAAAAAAAgABAFAgAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Like.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.Trenning" BaseTypeListCollapsed="true">
+    <Position X="18" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Trenning.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.AdminSettings.InsertDataInDB" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Menu\AdminSettings\InsertDataInDB.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.DietsInfo.DietsInfo" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAgABEAgAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Dietsinfo\DietsInfo.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.DietsInfo.DietsStart" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAEAAAAAAAAAAAAQAAAAAgAACgAAAAYAAAAAAE=</HashCode>
+      <FileName>Menu\Dietsinfo\DietsStart.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.236" />
+  </Class>
+  <Class Name="Trainer.Menu.DietsInfo.ListOfDiets">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAYAAAAAAAAA=</HashCode>
+      <FileName>Menu\Dietsinfo\ListOfDiets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Menu.DietsInfo.MainDiets" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQABAAAAAAgAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Menu\Dietsinfo\MainDiets.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.TreiningPage.InfoTreining" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAgABEAgAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\TreiningPage\InfoTreining.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.TreiningPage.ListOfTreinings">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAIAQAAAAAAA=</HashCode>
+      <FileName>Menu\TreiningPage\ListOfTreinings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Menu.TreiningPage.MainTreiningPage" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAAAAAQAAAAAAAAAAAAAAAAAAAAAIACAAAAA=</HashCode>
+      <FileName>Menu\TreiningPage\MainTreiningPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.TreiningPage.StartTreining" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAEAAAAAAAAAAAAQAAAAAgAACgAAAAYAAACAAE=</HashCode>
+      <FileName>Menu\TreiningPage\StartTreining.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Menu.User.UserPage" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAIAAAAAAAAAAAACAAAQAAAEAAAAA=</HashCode>
+      <FileName>Menu\User\UserPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Trainer.Properties.Resources">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trainer.Properties.Settings">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9.16" />
+</ClassDiagram>

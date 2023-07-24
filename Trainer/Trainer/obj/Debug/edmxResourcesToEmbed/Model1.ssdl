@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище TESTModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Diets">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="Type" Type="nvarchar(max)" />
+    <Property Name="Discription" Type="nvarchar(max)" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "TEST.dbo.FinishTreining" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="FinishTreining">
+          <Property Name="id_user" Type="int" />
+          <Property Name="id_treining" Type="int" />
+          <Property Name="date" Type="date" />
+        </EntityType>-->
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "TEST.dbo.Likes" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="Likes">
+          <Property Name="Id_User" Type="int" />
+          <Property Name="Id_Like" Type="int" />
+          <Property Name="Type" Type="nvarchar(max)" />
+        </EntityType>-->
+  <EntityType Name="Trainings">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Type" Type="nvarchar" MaxLength="20" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="Lessons" Type="int" />
+    <Property Name="Discription" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Login" Type="nvarchar(max)" />
+    <Property Name="Password" Type="nvarchar(max)" />
+    <Property Name="Email" Type="nvarchar(max)" />
+    <Property Name="RegisterDate" Type="datetime" />
+    <Property Name="IsAdmin" Type="int" />
+  </EntityType>
+  <EntityContainer Name="Хранилище TESTModelContainer">
+    <EntitySet Name="Diets" EntityType="Self.Diets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Trainings" EntityType="Self.Trainings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

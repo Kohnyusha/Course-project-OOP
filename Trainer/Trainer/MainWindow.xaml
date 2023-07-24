@@ -1,0 +1,52 @@
+﻿<Window x:Class="Trainer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trainer"
+        mc:Ignorable="d"
+        
+        Title="IndividualTrainer" 
+        WindowStyle="None" 
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" 
+        Height="700" Width="1100" >
+
+    <Grid Background="White">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="159*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="#343434">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="595*"/>
+                <RowDefinition Height="89*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Orientation="Vertical" Grid.RowSpan="1">
+                <TextBlock  Height="45" Margin="0,10,0,0" FontSize="30" Width="263" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI">Индивидуальные</TextBlock>
+                <TextBlock  Height="65" FontSize="30" Width="178" Foreground="White" FontWeight="Bold" FontFamily="Segoe UI"><Run Text="тренировки"/></TextBlock>
+                <Button x:Name="trenningButton" Click="trenningButton_Click" Height="42" Margin="0,10,0,0"  Width="240"  Content="Треннировки" FontSize="18" Foreground="White" BorderBrush="Transparent" Background="Transparent" FontFamily="Segoe UI"/>
+                <Button x:Name="Dieta" Click="Dieta_Click" Height="42" Margin="0,10,0,0"  Content="Диета" Width="240" FontSize="18" BorderBrush="Transparent" Foreground="White"  Background="Transparent" FontFamily="Segoe UI"/>
+                <Button x:Name="Like" Click="Like_Click" Height="42" Margin="0,10,0,0"  Content="Избранные" Width="240" FontSize="18" BorderBrush="Transparent" Foreground="White"  Background="Transparent"/>
+                <Button x:Name="InfoAboutUser" Click="InfoAboutUser_Click"  Height="42" Margin="0,10,0,0"  Content="Статистика" Width="240" FontSize="18" BorderBrush="Transparent" Foreground="White"  Background="Transparent"/>
+                <Button x:Name="AdminPanel" Click="AdminPanel_Click"  Height="42" Margin="0,10,0,0"  Content="Панель администратора" Width="240" FontSize="18" Foreground="White"  BorderBrush="Transparent" Background="Transparent"/>
+                <Button x:Name="InfoAboutProgramm" Click="InfoAboutProgramm_Click" Height="42" Margin="0,10,0,0"  Content="О приложении" Width="240" FontSize="18" Foreground="White"  BorderBrush="Transparent" Background="Transparent"/>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Bottom"  Grid.Column="0" Grid.Row="2" Height="63" Margin="0,28,0,0">
+                <Button  x:Name="Exit" Click="Exit_Click"  Height="42" Content="Выход" Width="240" FontSize="18" BorderBrush="Transparent" Foreground="White"  Background="Transparent"/>
+            </StackPanel>
+            <Border BorderBrush="Black" BorderThickness="1" Margin="96,170,93,438" Height="1"/>
+            <Border BorderBrush="Black" BorderThickness="1" Height="1" Margin="124,221,122,387"/>
+            <Border BorderBrush="Black" BorderThickness="1" Width="100" Height="1" Margin="102,273,103,335"/>
+            <Border BorderBrush="Black" BorderThickness="1" Height="1" Margin="107,325,103,283"/>
+            <Border BorderBrush="Black" BorderThickness="1" Height="1" Margin="88,427,84,181"/>
+        </Grid>
+        <Border BorderBrush="Black" BorderThickness="1" Height="100" Margin="0,0,0,600" HorizontalAlignment="Right" Width="311"/>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"  Grid.Column="1" Background="#ededed">
+            
+        </Frame>
+        <Border BorderBrush="Black" BorderThickness="1" Height="1" Margin="126,675,122,24"/>
+    </Grid>
+</Window>

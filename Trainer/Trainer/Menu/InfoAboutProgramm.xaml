@@ -1,0 +1,36 @@
+﻿<Page x:Class="Trainer.Menu.InfoAboutProgramm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Trainer.Menu"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InfoAboutProgramm">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="321*"/>
+            <RowDefinition Height="89*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="103*"/>
+            <ColumnDefinition Width="195*"/>
+            <ColumnDefinition Width="102*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Background="#343434" TextWrapping="Wrap" Text="" Margin="202,26,190,26" Opacity="0.7" Grid.ColumnSpan="3" Grid.RowSpan="3" />
+        <Border BorderBrush="Black" BorderThickness="1" Margin="7,38,203,39" Grid.ColumnSpan="2" Grid.Column="1" Grid.RowSpan="3"/>
+        <TextBlock x:Name="label" HorizontalAlignment="Left" Margin="111,33,0,10" TextWrapping="Wrap" Text="Индивидуальный тренер" TextAlignment="Center" Foreground="Black" Width="184" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock x:Name="label2" HorizontalAlignment="Left" Margin="108,33,0,232" TextWrapping="Wrap" Text="Индивидуальный тренер"  TextAlignment="Center" Foreground="#FFCFCFCF" Width="184" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock x:Name="_1" Grid.Column="1" TextWrapping="Wrap"  Text="Наше приложение - это помощник современным людям, занимающимся в тренажерном зале и дома. 
+                   Приложение содержит базу упражнений, которая позволит заниматься более эфективно! Все упражнения подбирались профессиональными тренерами и помогут тебе достичь результатов, а также сохранить свое тело от травм. ПО дает возможность выбирать наиболее удобную и подходящую для Вас тренировку и диету."
+                   VerticalAlignment="Top" Foreground="#FFE3E3E3" TextAlignment="Center" FontSize="15" Margin="10,137,10,0"  Grid.Row="1" Height="144"/>
+        <Label Content="KOHNYUK @2022 Version 1.1" Margin="118,27,108,39" Foreground="#FFCFCFCF" Grid.Column="1" Grid.Row="2"/>
+
+
+        <Grid.Background>
+            <ImageBrush ImageSource="pack://application:,,,/Resource/main_page.jpg"/>
+        </Grid.Background>
+
+    </Grid>
+</Page>

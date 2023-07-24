@@ -1,0 +1,43 @@
+﻿<Page x:Class="Trainer.Menu.AdminSettings.InsertDataInDB"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Trainer.Menu.AdminSettings"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="InsertDataInDB" Height="577">
+
+    <Grid Background="#343434" Margin="0,0,0,-139">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="401*"/>
+            <ColumnDefinition Width="399*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox HorizontalAlignment="Left" Height="34" FontSize="20" Margin="20,157,0,0" x:Name="NameInDB" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="349" />
+        <TextBox HorizontalAlignment="Left" Height="34" FontSize="20" Margin="20,240,0,0" x:Name="TypeInDB" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="349"/>
+        <TextBox HorizontalAlignment="Left" Height="34" FontSize="20" Margin="20,328,0,0" x:Name="Lessons" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="349" TextChanged="Lessons_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="138" FontSize="20" Margin="20,418,0,0" x:Name="Discriptions" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="352"/>
+
+        <Button Content="Добавить" x:Name="AddToDBDiets" Click="AddToDBDiets_Click" BorderBrush="black" Background="Transparent" Foreground="White"  FontSize="18" Margin="122,570,125,95"/>
+        <Label Content="Диеты" HorizontalAlignment="Left" FontSize="20" Margin="160,69,0,0" VerticalAlignment="Top" Width="76" FontWeight="Bold" Foreground="White" Height="37"/>
+
+        <Label Content="Тренировки" HorizontalAlignment="Left" FontSize="20" Margin="138,68,0,0" VerticalAlignment="Top" Grid.Column="1" FontWeight="Bold" Foreground="White" Height="37" Width="128"/>
+        <TextBox HorizontalAlignment="Left" Height="34" FontSize="20" Margin="22,157,0,0" x:Name="NameInDB_Treining" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="352" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="34" FontSize="20" Margin="22,240,0,0" x:Name="TypeInDB_Treining" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="352" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="34" FontSize="20" Margin="22,328,0,0" x:Name="Lessons_Treining" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="352" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Left" Height="138" FontSize="20" Margin="22,418,0,0" x:Name="Discriptions_Treining" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="352" Grid.Column="1"/>
+        <Button Content="Добавить" x:Name="AddToDBTreining" Click="AddToDBTreining_Click"  Margin="121,570,124,95" BorderBrush="black" Background="Transparent" Foreground="White"  FontSize="18" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="0,0,399,0" Grid.Column="1"/>
+        <Label Content="Название:" HorizontalAlignment="Left" Margin="15,126,0,0" VerticalAlignment="Top" Width="84" FontSize="16" Foreground="White" FontWeight="Bold" Height="31"/>
+        <Label Content="Тип:" HorizontalAlignment="Left" Margin="20,209,0,0" VerticalAlignment="Top" Width="61" FontSize="16" Foreground="White" FontWeight="Bold" Height="31"/>
+        <Label Content="Результат через:" HorizontalAlignment="Left" Margin="15,296,0,0" VerticalAlignment="Top" FontSize="16" Foreground="White" FontWeight="Bold" Height="31" Width="148"/>
+        <Label Content="Описание:" HorizontalAlignment="Left" Margin="15,386,0,0" VerticalAlignment="Top" FontSize="16" Foreground="White" FontWeight="Bold" Height="32" Width="92"/>
+        <Label Content="Название:" HorizontalAlignment="Left" Margin="284,126,0,0" VerticalAlignment="Top" Width="95" FontSize="16" Foreground="White" FontWeight="Bold" Height="31" Grid.Column="1"/>
+        <Label Content="Тип:" HorizontalAlignment="Left" Margin="331,209,0,0" VerticalAlignment="Top" Width="48" FontSize="16" Foreground="White" FontWeight="Bold" Height="31" Grid.Column="1"/>
+        <Label Content="Количество уроков:" HorizontalAlignment="Left" Margin="206,296,0,0" VerticalAlignment="Top" FontSize="16" Foreground="White" FontWeight="Bold" Height="31" Width="173" Grid.Column="1"/>
+        <Label Content="Описание:" HorizontalAlignment="Left" Margin="283,386,0,0" VerticalAlignment="Top" FontSize="16" Foreground="White" FontWeight="Bold" Height="32" Width="98" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" Grid.Column="1" HorizontalAlignment="Left" Height="1" Margin="141,105,0,0" VerticalAlignment="Top" Width="122"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="1" Margin="160,104,0,0" VerticalAlignment="Top" Width="76"/>
+
+
+    </Grid>
+</Page>

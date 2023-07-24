@@ -1,0 +1,31 @@
+﻿<Page x:Class="Trainer.Menu.Like"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Trainer.Menu"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Like">
+
+    <Grid Background="#b3b3b3" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="137*"/>
+            <RowDefinition Height="13*"/>
+        </Grid.RowDefinitions>
+
+        <ListView FontSize="20"  x:Name="listOfLikes" SelectionChanged="ListOfLikes_SelectionChanged" Margin="0,0,0,1.464">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Type}" Width="150">Тип</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Name}" Width="200">Название</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Discriptions}">Описание</GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Grid.Column="0" Grid.Row="1" Content="Отписаться" x:Name="Dislake" Click="Dislake_Click" Margin="629,4,21,6" FontSize="18" Foreground="Black" BorderBrush="Black" Background="Transparent">
+            
+        </Button>
+    </Grid>
+</Page>
